@@ -20,3 +20,7 @@ Choose word from database based on round(8 to 1) and time (old to young)
 
 input = word  
 output = word, pronunciation, meaning, example, (sound, picture maybe)
+
+Think of the purpose of your memory.
+e.g. If you want to be able to read, you'd choose the vocabulary from the things you are most probably to read about. Then get the high frequency word from it. And then remember it.
+You set up a goal and go for it. No other way. Be realistic.
